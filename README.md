@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Daniela!
 
-<!--
-**daniela-0916/daniela-0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bilingual administrative professional transitioning into tech.
+I’ve always loved finding smarter, easier ways to work — improving processes, saving time, and keeping things organized!
 
-Here are some ideas to get you started:
+I'm *that* curious person who always asks “why?” — sometimes too many “whys” 🫣  
+But understanding *how* things work is what keeps me going. If I don’t get it, I can’t just move on — my brain won’t let me!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For the longest time, I didn’t share any of my projects because I thought they had to be perfect first.  
+But waiting for perfection was just keeping me stuck.  
+
+So here I am — finally jumping in 🎉  
+This is my little corner to share my *real* progress — from super beginner projects to (hopefully) something amazing down the road.
+---
+
+### 📫 How to reach me:
+🌐 [LinkedIn](https://www.linkedin.com/in/daniela--gonzalez/)  
+📧 **danigonz1609@gmail.com**
